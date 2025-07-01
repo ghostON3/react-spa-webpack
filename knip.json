@@ -1,0 +1,28 @@
+{
+	"ignore": [
+		"webpack/webpack.common.js",
+		"webpack/webpack.config.js",
+		"webpack/webpack.dev.js",
+		"webpack/webpack.prod.js",
+		"src/components/Button.tsx"
+	],
+	"ignoreDependencies": [
+		"@pmmmwh/react-refresh-webpack-plugin",
+		"@testing-library/dom",
+		"@testing-library/jest-dom",
+		"@testing-library/react",
+		"babel-loader",
+		"cross-env",
+		"dotenv-webpack",
+		"eslint-plugin-jsonc",
+		"fork-ts-checker-webpack-plugin",
+		"html-webpack-plugin",
+		"husky",
+		"react-refresh",
+		"webpack-bundle-analyzer",
+		"webpack-cli",
+		"webpack-dev-server",
+		"webpack-manifest-plugin",
+		"webpack-merge"
+	]
+}
